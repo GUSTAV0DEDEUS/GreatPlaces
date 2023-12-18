@@ -8,7 +8,7 @@ class PlaceListScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Meus Lugares'),
+        title: const Text('My places'),
         actions: [
           IconButton(
             onPressed: () {
